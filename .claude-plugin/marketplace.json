@@ -1,0 +1,7 @@
+{
+  "name": "reflow-probe-marketplace",
+  "owner": {"name": "Oren Magid"},
+  "plugins": [
+    {"name": "reflow-probe", "source": "./reflow-probe", "description": "Reflow Phase 0 probe — throwaway"}
+  ]
+}
